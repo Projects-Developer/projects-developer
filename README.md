@@ -9,7 +9,7 @@
 
 -  **Projects Help: [**LINK**](https://www.cse-projects.com)**
 
-- 📫 How to reach Us:
+### 📫 How to reach Us:
 
  :  WhatsApp: **+91 9310631437** (Helping 24*7)
  
@@ -28,12 +28,8 @@
 </a> 
 
 
-2.
-<a href="https://payu.in/pay/EF5CC807B025152D0345FF03AB2352E5">
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/payumoney-logo.png" width="150" height="80"/>
-</a>
 
-3.
+2.
 <p><a href="https://www.buymeacoffee.com/Vatshayan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
 
 
@@ -42,9 +38,12 @@
 ### Your Support will Motivate us to give many free Material, knowledge, Skills training and Internship to Students
 
 
-We are Non Profit Startup, We need your Support  for to Run Educational Websites, Pay Freelancers and Interns.
+We are Small Startup, We need your Support for to Run Educational Websites, Pay Freelancers and Interns.
 
 
 **We are Soon Coming with Many Open Source Projects, Training Courses and Internship.**
 
+### Youtube : https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ/videos
+
+### Gmail : Gmail : **vatshayan007@gmail.com**
 
