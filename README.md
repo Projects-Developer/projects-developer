@@ -15,7 +15,7 @@
  
  :  Gmail : **vatshayan007@gmail.com**
  
- : Youtube : https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ/videos
+ :  **Youtube : https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ/videos**
 
 ### Student Got helped till today : ![Visitor Count](https://profile-counter.glitch.me/{RoyalData}/count.svg)
 
@@ -35,15 +35,9 @@
 
 
 
-### Your Support will Motivate us to give many free Material, knowledge, Skills training and Internship to Students
-
-
-We are Small Startup, We need your Support for to Run Educational Websites, Pay Freelancers and Interns.
-
-
 **We are Soon Coming with Many Open Source Projects, Training Courses and Internship.**
 
 ### Youtube : https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ/videos
 
-### Gmail : Gmail : **vatshayan007@gmail.com**
+### Mail : **vatshayan007@gmail.com**
 
