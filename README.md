@@ -15,11 +15,9 @@
  
  :  Gmail : **vatshayan007@gmail.com**
  
- :  **Youtube : https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ/videos**
+ :  **Youtube : https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ**
 
 ### Student Got helped till today : ![Visitor Count](https://profile-counter.glitch.me/{RoyalData}/count.svg)
-
- <h3 align="left">Support Us:</h3>
 
 ### Website : https://www.finalproject.in
 
