@@ -21,21 +21,7 @@
 
  <h3 align="left">Support Us:</h3>
 
-1. 
-<a href="https://paypal.me/shivamvatshayan1?locale.x=en_GB">
- 
-<img src="https://www.freepnglogos.com/uploads/paypal-logo-png-7.png" width="80" height="80"/>
-</a> 
-
-
-
-2.
-<p><a href="https://www.buymeacoffee.com/Vatshayan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
-
-
-
-
-**We are Soon Coming with Many Open Source Projects, Training Courses and Internship.**
+### Website : https://www.finalproject.in
 
 ### Youtube : https://www.youtube.com/channel/UC-fiWBgdArpy9KtC_CO7XrQ/videos
 
